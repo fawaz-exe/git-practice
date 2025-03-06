@@ -1,9 +1,0 @@
-How to Raise a PR (Pull Request)
-1. git status
-2. git pull origin main <= pulls all the code
-3. git status
-4. git branch fawaz <= creates new branch
-5. git branch <= shows all the exisiting branches
-6. git switch fawaz <= swiches to the dest branch
-7. git status
-8. 
